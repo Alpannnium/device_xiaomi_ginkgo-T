@@ -22,7 +22,8 @@
     <string name="display_title">Display</string>
     <string name="device_settings_app_name">Xiaomi Parts</string>
     <string name="ambient_display_gestures_title">Ambient Gestures</string>
-     
+    <string name="ambient_display_gestures_summary">Show ambient display gestures</string>
+
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimize audio quality</string>
