@@ -28,6 +28,9 @@ $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
+DEVICE_MAINTAINER := Kyzenn
+DEVICE_MAINTAINER_LINK := https://t.me/AlpannnWorldd
+
 # Device identifier
 PRODUCT_NAME := aosp_ginkgo
 PRODUCT_DEVICE := ginkgo
